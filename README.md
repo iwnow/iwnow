@@ -7,6 +7,6 @@ I enjoy
 - Javascript/Typescript for 🌐
 - Writing metal music 🎸 check my band [Amanapart](https://open.spotify.com/artist/3U8sKDTPcnxkuYYI2xKN9c?si=7DYWV2h6SWm_ro61dNfpKA) and [The Panic Jank](https://open.spotify.com/artist/1LJKfM20ODEyzW3GTPaL6E?si=_3m7DgZpTUyQvQYXAZrdtg)
 
-❗❗❗I hate war. Please, stop war in Ukraine 🙏🔵🟡
+❗❗Stop war in Ukraine❗❗
 
 🎉 Thanks for looking 👍
