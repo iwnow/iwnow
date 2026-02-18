@@ -1,6 +1,8 @@
 # Hi there 🦸‍![Visitors count](https://visitor-badge.laobi.icu/badge?page_id=iwnow)
 
-![Vitalii's Github stats](https://github-readme-stats.vercel.app/api?username=iwnow&show_icons=true&theme=dracula)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 I enjoy
 
